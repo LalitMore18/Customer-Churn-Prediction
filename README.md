@@ -1,0 +1,1 @@
+Banks often face the challenge of customers closing their accounts and moving to competitors. This project focuses on predicting customer churn in the banking sector using machine learning. By analyzing customer demographics, account details, and transaction patterns, the model helps identify which customers are most likely to leave, enabling proactive retention strategies.
